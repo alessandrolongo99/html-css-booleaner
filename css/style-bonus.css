@@ -1,0 +1,74 @@
+.tutto{
+    padding: 0 150px;
+}
+
+body, .info{
+    margin: 0;
+}
+
+.logo{
+    padding-left: 150px;
+    height: 180px;
+    background-image: url("../img/pattern.png");
+    background-color: blue;
+}
+
+div > img{
+    margin-top: 70px;
+    height: 100px;
+}
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+
+.info, footer > h3{
+    color: rgba(0, 0, 0, 0.6);
+}
+
+a{
+    text-decoration: none;
+}
+
+a:visited{
+    color:rgb(95, 215, 255);
+}
+
+.foto{
+    margin-top: 20px;
+}
+
+ul{
+    padding: 20px;
+}
+
+thead{
+    padding: 0px;
+    color: white;
+    background-color: blue;
+}
+
+.colorata{
+    background-color:rgb(95, 215, 255);
+}
+
+span{
+    background-color: yellow;
+}
+
+.monitor{
+    background-image: url("../img/monitor.jpg");
+}
+
+.graph{
+    background-image: url("../img/graph.jpg");
+}
+
+div > h3{
+    color: white;
+    height: 200px;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
