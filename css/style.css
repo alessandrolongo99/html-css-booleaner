@@ -1,7 +1,8 @@
-/* *{
+*{
     margin: 0;
 }
 
-div img{
-    background-image: url('');
-    /* background-color: rgb(65, 65, 255, 0.5); */
+.logo{
+    background-image: url("img\logo.svg"),
+                      url("img\pattern.png");
+}
